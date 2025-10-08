@@ -50,7 +50,7 @@ body {
 /*Іконкові шрифти */
 .icon-section {
     margin-top: 20px;
-    font-size: 35px;
+    font-size: 30px;
     color: #1100ff;
 }
 .icon.text {
@@ -66,3 +66,4 @@ body {
     display: inline;
     margin-left: 5px;
 }
+
